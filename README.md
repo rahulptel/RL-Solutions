@@ -11,4 +11,5 @@ Solutions to RL exercises proposed in the [git repo by Denny Britz](https://gith
 
 ### Monte Carlo methods
 - Monte Carlo Prediction
-- Monte Carlo Control with e-greedy policy
+- On-policy Monte Carlo Control with e-greedy policy
+- Off-policy Monte Carlo Control with Weighted Importance Sampling
